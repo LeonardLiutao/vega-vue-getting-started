@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heartlandone/vega-vue": "^1.37.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {
